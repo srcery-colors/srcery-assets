@@ -1,0 +1,21 @@
+<svg
+  version="1.0"
+  xmlns="http://www.w3.org/2000/svg"
+  width="952"
+  height="398"
+  viewBox="0 0 952 398"
+  style="background-color: #1C1B19"
+>
+  <rect x="20" y="49" width="65" height="300" fill="#EF2F27" />
+  <rect x="97" y="49" width="65" height="300" fill="#F75341" />
+  <rect x="174" y="49" width="65" height="300" fill="#519F50" />
+  <rect x="251" y="49" width="65" height="300" fill="#98BC37" />
+  <rect x="328" y="49" width="65" height="300" fill="#FBB829" />
+  <rect x="405" y="49" width="65" height="300" fill="#FED06E" />
+  <rect x="482" y="49" width="65" height="300" fill="#2C78BF" />
+  <rect x="559" y="49" width="65" height="300" fill="#68A8E4" />
+  <rect x="636" y="49" width="65" height="300" fill="#E02C6D" />
+  <rect x="713" y="49" width="65" height="300" fill="#FF5C8F" />
+  <rect x="790" y="49" width="65" height="300" fill="#0AAEB3" />
+  <rect x="867" y="49" width="65" height="300" fill="#53FDE9" />
+</svg>
