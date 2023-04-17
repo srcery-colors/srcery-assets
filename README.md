@@ -2,6 +2,8 @@
 
 ## Titles & logos
 
+- logo\_circle.svg<br />
+  ![logo\_circle.svg](src/logo_circle.svg)
 - logo.svg<br />
   ![logo.svg](src/logo.svg)
 - logo\_border.svg<br />
