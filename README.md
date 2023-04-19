@@ -10,9 +10,13 @@
   ![logo\_border.svg](src/logo_border.svg)
 - title.png
   ![title.png](title.png)
-
 - terminal\_title.png
   ![terminal\_title.png](terminal_title.png)
+- glyph.svg<br />
+    ![glyph](src/glyph.svg)
+- favicon.svg<br />
+    ![favicon](src/favicon.svg)
+
 ## Vim
 - vim/viml\_bash.png
   ![vim/viml\_bash.png](vim/viml_bash.png)
