@@ -8,14 +8,16 @@
   ![logo.svg](src/logo.svg)
 - logo\_border.svg<br />
   ![logo\_border.svg](src/logo_border.svg)
-- title.png
-  ![title.png](title.png)
-- terminal\_title.png
-  ![terminal\_title.png](terminal_title.png)
+- logo\_url.svg<br />
+  ![logo\_url.svg](src/logo_url.svg)
 - glyph.svg<br />
     ![glyph](src/glyph.svg)
 - favicon.svg<br />
     ![favicon](src/favicon.svg)
+- title.png
+  ![title.png](title.png)
+- terminal\_title.png
+  ![terminal\_title.png](terminal_title.png)
 
 ## Vim
 - vim/viml\_bash.png
