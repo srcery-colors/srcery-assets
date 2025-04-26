@@ -54,3 +54,9 @@
 
 - emacs/org-c.png
   ![emacs/org-c.png](emacs/org-c.png)
+
+## Vivid
+
+- [vivid/preview.png](vivid/preview.png)
+
+   ![vivid/preview.png](vivid/preview.png)
