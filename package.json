@@ -1,0 +1,18 @@
+{
+  "name": "srcery-assets",
+  "version": "1.0.0",
+  "description": "Generate swatches from srcery-palette",
+  "private": true,
+  "main": "src/swatch.js",
+  "scripts": {
+    "swatch": "node src/swatch.mjs"
+  },
+  "keywords": [],
+  "author": "Daniel Berg",
+  "license": "MIT",
+  "packageManager": "pnpm@10.28.2",
+  "dependencies": {
+    "@srcery-colors/srcery-palette": "2.0.0-alpha.0",
+    "sharp": "^0.34.5"
+  }
+}
