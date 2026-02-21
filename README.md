@@ -1,5 +1,35 @@
 # Srcery asset repository
 
+## Swatch
+
+![black](./swatch/black_24.jpg)
+![bright_black](./swatch/bright_black_24.jpg)
+![dark_red](./swatch/dark_red_24.jpg)
+![red](./swatch/red_24.jpg)
+![bright_red](./swatch/bright_red_24.jpg)
+![dark_green](./swatch/dark_green_24.jpg)
+![green](./swatch/green_24.jpg)
+![bright_green](./swatch/bright_green_24.jpg)
+![yellow](./swatch/yellow_24.jpg)
+![bright_yellow](./swatch/bright_yellow_24.jpg)
+![blue](./swatch/blue_24.jpg)
+![bright_blue](./swatch/bright_blue_24.jpg)
+![magenta](./swatch/magenta_24.jpg)
+![bright_magenta](./swatch/bright_magenta_24.jpg)
+![cyan](./swatch/cyan_24.jpg)
+![bright_cyan](./swatch/bright_cyan_24.jpg)
+![teal](./swatch/teal_24.jpg)
+![white](./swatch/white_24.jpg)
+![bright_white](./swatch/bright_white_24.jpg)
+![bright_orange](./swatch/bright_orange_24.jpg)
+![orange](./swatch/orange_24.jpg)
+![gray1](./swatch/gray1_24.jpg)
+![gray2](./swatch/gray2_24.jpg)
+![gray3](./swatch/gray3_24.jpg)
+![gray4](./swatch/gray4_24.jpg)
+![gray5](./swatch/gray5_24.jpg)
+![gray6](./swatch/gray6_24.jpg)
+
 ## Titles & logos
 
 - logo\_circle.svg<br />
