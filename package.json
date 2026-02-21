@@ -1,13 +1,13 @@
 {
   "name": "srcery-assets",
-  "version": "1.0.0",
-  "description": "Generate swatches from srcery-palette",
+  "version": "0.0.1",
+  "description": "Node scripts for generating assets",
   "private": true,
   "main": "src/swatch.js",
   "scripts": {
     "swatch": "node src/swatch.mjs"
   },
-  "keywords": [],
+  "keywords": ["colors","colorscheme","swatch"],
   "author": "Daniel Berg",
   "license": "MIT",
   "packageManager": "pnpm@10.28.2",
