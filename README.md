@@ -30,66 +30,44 @@
 ![gray5](./swatch/gray5_24.jpg)
 ![gray6](./swatch/gray6_24.jpg)
 
-## Titles & logos
+## Logos
 
-- logo\_circle.svg<br />
-  ![logo\_circle.svg](src/logo_circle.svg)
-- logo.svg<br />
-  ![logo.svg](src/logo.svg)
-- logo\_border.svg<br />
-  ![logo\_border.svg](src/logo_border.svg)
-- logo\_url.svg<br />
-  ![logo\_url.svg](src/logo_url.svg)
-- glyph.svg<br />
-    ![glyph](src/glyph.svg)
-- favicon.svg<br />
-    ![favicon](src/favicon.svg)
-- title.png
-  ![title.png](title.png)
-- terminal\_title.png
-  ![terminal\_title.png](terminal_title.png)
+![logo\_circle.svg](logo/logo_circle.svg)
+![logo.svg](logo/logo.svg)
+![logo\_border.svg](logo/logo_border.svg)
+![logo\_url.svg](logo/logo_url.svg)
+![glyph](logo/glyph.svg)
+
+## Web
+![favicon](web/favicon.svg)
+
+## Banners
+
+![title.png](title.png)
+![terminal\_title.png](terminal_title.png)
 
 ## Vim
-- vim/viml\_bash.png
-  ![vim/viml\_bash.png](vim/viml_bash.png)
 
-- vim/lisp.png
-  ![vim/lisp.png](vim/lisp.png)
+![c rs](vim/1_c_rs.png)
+![py_ts](vim/2_py_ts.png)
+![popup](vim/3_popup.png)
+![diagnostic](vim/4_diag.png)
+![diff view](vim/5_diff.png)
+![md term](vim/6_md_term.png)
 
-- vim/c\_rust.png
-  ![vim/c\_rust.png](vim/c_rust.png)
-
-- vim/py\_js.png
-  ![vim/py\_js.png](vim/py_js.png)
-
-- vim/git\_term.png
-  ![vim/git\_term.png](vim/git_term.png)
-
-- vim/lightline.png
-  ![vim/lightline.png](vim/lightline.png)
-
-- vim/airline.png
-  ![vim/airline.png](vim/airline.png)
+![vim/lightline.png](vim/lightline.png)
+![vim/airline.png](vim/airline.png)
 
 ## Emacs
 
-- emacs/lisp.png
-  ![emacs/lisp.png](emacs/lisp.png)
-
-- emacs/py-js.png
-  ![emacs/py-js.png](emacs/py-js.png)
-
-- emacs/rs-magit.png
-  ![emacs/rs-magit.png](emacs/rs-magit.png)
-
-- emacs/org-c.png
-  ![emacs/org-c.png](emacs/org-c.png)
+![emacs/lisp.png](emacs/lisp.png)
+![emacs/py-js.png](emacs/py-js.png)
+![emacs/rs-magit.png](emacs/rs-magit.png)
+![emacs/org-c.png](emacs/org-c.png)
 
 ## Vivid
 
-- [vivid/preview.png](vivid/preview.png)
-
-   ![vivid/preview.png](vivid/preview.png)
+![vivid/preview.png](vivid/preview.png)
 
 ## License
 
