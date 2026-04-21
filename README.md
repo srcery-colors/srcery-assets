@@ -1,5 +1,7 @@
 # Srcery asset repository
 
+This repository contains static assets used for the various Srcery themes and projects.
+
 ## Swatch
 
 ![black](./swatch/black_24.jpg)
@@ -8,12 +10,14 @@
 ![red](./swatch/red_24.jpg)
 ![bright_red](./swatch/bright_red_24.jpg)
 ![dark_green](./swatch/dark_green_24.jpg)
+![dim_green](./swatch/dim_green_24.jpg)
 ![green](./swatch/green_24.jpg)
 ![bright_green](./swatch/bright_green_24.jpg)
 ![yellow](./swatch/yellow_24.jpg)
 ![bright_yellow](./swatch/bright_yellow_24.jpg)
-![blue](./swatch/blue_24.jpg)
 ![bright_blue](./swatch/bright_blue_24.jpg)
+![blue](./swatch/blue_24.jpg)
+![dark_blue](./swatch/dark_blue_24.jpg)
 ![magenta](./swatch/magenta_24.jpg)
 ![bright_magenta](./swatch/bright_magenta_24.jpg)
 ![cyan](./swatch/cyan_24.jpg)
