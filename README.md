@@ -36,11 +36,13 @@ This repository contains static assets used for the various Srcery themes and pr
 
 ## Logos
 
-![logo\_circle.svg](logo/logo_circle.svg)
-![logo.svg](logo/logo.svg)
-![logo\_border.svg](logo/logo_border.svg)
-![logo\_url.svg](logo/logo_url.svg)
 ![glyph](logo/glyph.svg)
+
+![logo\_circle.svg](logo/logo_circle.svg)
+
+![logo.svg](logo/logo.svg)
+
+![logo\_url.svg](logo/logo_url.svg)
 
 ## Web
 ![favicon](web/favicon.svg)
