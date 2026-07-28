@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@srcery-colors/srcery-palette':
-        specifier: 2.0.0-alpha.2
-        version: 2.0.0-alpha.2
+        specifier: 2.0.0
+        version: 2.0.0
       sharp:
         specifier: ^0.34.5
         version: 0.34.5
@@ -173,8 +173,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@srcery-colors/srcery-palette@2.0.0-alpha.2':
-    resolution: {integrity: sha512-3XPpk8RUzs56GakxfZlmVBex+Mfc4Ajr+MnTWhwdgugNM3ckOBhyZzM+C55begVgQmOC5S/AVp0udyZfKl9RBg==}
+  '@srcery-colors/srcery-palette@2.0.0':
+    resolution: {integrity: sha512-zHA3+qSa9gwkaulNNCKE49dqQnxfDIHoHG3Ij3prRtVkQZqIjoGWxKZdjEIPuiy6yyTXoSRv5iq9UxqhrEwQlw==}
 
   detect-libc@2.1.2:
     resolution: {integrity: sha512-Btj2BOOO83o3WyH59e8MgXsxEQVcarkUOpEYrubB0urwnN10yQ364rsiByU11nZlqWYZm05i/of7io4mzihBtQ==}
@@ -295,7 +295,7 @@ snapshots:
   '@img/sharp-win32-x64@0.34.5':
     optional: true
 
-  '@srcery-colors/srcery-palette@2.0.0-alpha.2': {}
+  '@srcery-colors/srcery-palette@2.0.0': {}
 
   detect-libc@2.1.2: {}
 
