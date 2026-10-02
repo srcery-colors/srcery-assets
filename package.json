@@ -10,7 +10,7 @@
   "keywords": ["colors","colorscheme","swatch"],
   "author": "Daniel Berg",
   "license": "MIT",
-  "packageManager": "pnpm@10.28.2",
+  "packageManager": "pnpm@12.8.1",
   "dependencies": {
     "@srcery-colors/srcery-palette": "github:srcery-colors/srcery-palette#main",
     "sharp": "^0.34.5"
