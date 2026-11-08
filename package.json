@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "@srcery-colors/srcery-palette": "github:srcery-colors/srcery-palette#main",
+    "@srcery-colors/srcery-palette": "^2.1.0",
     "sharp": "^0.34.5"
   }
 }

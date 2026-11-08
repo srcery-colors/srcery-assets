@@ -13,6 +13,7 @@ This repository contains static assets used for the various Srcery themes and pr
 ![dim_green](./swatch/dim_green_24.jpg)
 ![green](./swatch/green_24.jpg)
 ![bright_green](./swatch/bright_green_24.jpg)
+![dark_yellow](./swatch/dark_yellow_24.jpg)
 ![yellow](./swatch/yellow_24.jpg)
 ![bright_yellow](./swatch/bright_yellow_24.jpg)
 ![bright_blue](./swatch/bright_blue_24.jpg)
