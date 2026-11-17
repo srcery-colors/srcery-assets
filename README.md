@@ -2,7 +2,12 @@
 
 This repository contains static assets used for the various Srcery themes and projects.
 
-## Swatch
+## Previews
+
+Click to expand previews
+
+<details>
+<summary><strong>Swatch</strong></summary>
 
 ![black](./swatch/black_24.jpg)
 ![bright_black](./swatch/bright_black_24.jpg)
@@ -35,7 +40,10 @@ This repository contains static assets used for the various Srcery themes and pr
 ![gray5](./swatch/gray5_24.jpg)
 ![gray6](./swatch/gray6_24.jpg)
 
-## Logos
+</details>
+
+<details>
+<summary><strong>Logo</strong></summary>
 
 ![glyph](logo/glyph.svg)
 
@@ -45,15 +53,23 @@ This repository contains static assets used for the various Srcery themes and pr
 
 ![logo\_url.svg](logo/logo_url.svg)
 
-## Web
-![favicon](web/favicon.svg)
+</details>
 
-## Banners
+<details>
+<summary><strong>Web</strong></summary>
+![favicon](web/favicon.svg)
+</details>
+
+<details>
+<summary><strong>Banners</strong></summary>
 
 ![title.png](title.png)
 ![terminal\_title.png](terminal_title.png)
 
-## Vim
+</details>
+
+<details>
+<summary><strong>Vim</strong></summary>
 
 ![c rs](vim/1_c_rs.png)
 ![py_ts](vim/2_py_ts.png)
@@ -65,16 +81,52 @@ This repository contains static assets used for the various Srcery themes and pr
 ![vim/lightline.png](vim/lightline.png)
 ![vim/airline.png](vim/airline.png)
 
-## Emacs
+</details>
+
+<details>
+<summary><strong>Emacs</strong></summary>
 
 ![emacs/lisp.png](emacs/lisp.png)
 ![emacs/py-js.png](emacs/py-js.png)
 ![emacs/rs-magit.png](emacs/rs-magit.png)
 ![emacs/org-c.png](emacs/org-c.png)
 
-## Vivid
+</details>
+
+<details>
+<summary><strong>Vivid</strong></summary>
 
 ![vivid/preview.png](vivid/preview.png)
+
+</details>
+
+
+## Development
+### Swatch script
+
+Script to generate swatch images (small square fully colored images referenced
+in tables)
+
+```js
+// Default size is 24x24
+pnpm run swatch
+
+// Custom size
+pnpm run swatch -- 50
+```
+
+### SVG Formatting
+
+Use [scour](https://github.com/scour-project/scour) for svg formatting. This is the equivalent of saving as "Optimized SVG" in inkscape with default settings.
+
+```bash
+scour logo/glyph.svg optimized.svg
+```
+
+
+> [!IMPORTANT]
+> Don't modify `src/logo_border.svg`. It's the old version of the logo (palette v1), there are still projects referencing this asset in this
+location.
 
 ## License
 
