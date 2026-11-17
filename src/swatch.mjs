@@ -10,7 +10,7 @@ import palette from "@srcery-colors/srcery-palette"
  * this script generates swatches for the srcery colors for use in readmes and
  * other places where we need a jpg filled with a color
  *
- * usage: node swatch.mjs [size]
+ * usage: pnpm swatch [size]
  */
 
 "use strict";
