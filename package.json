@@ -9,7 +9,7 @@
   },
   "keywords": ["colors","colorscheme","swatch"],
   "author": "Daniel Berg",
-  "license": "MIT",
+  "license": "CC-BY-4.0",
   "devEngines": {
     "runtime": {
       "name": "node",
